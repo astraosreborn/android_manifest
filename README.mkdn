@@ -1,4 +1,4 @@
-astraOS 1.3d
+astraOS 1.0-A14
 ===========
 
 Getting started
