@@ -7,8 +7,14 @@ Getting started
 To get started with Android/astraOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
 To initialize your local repository using the astraOS trees, use a command like this:
+
+**Android 14 (Beta and buggy):**
 ```
 repo init -u https://github.com/astraosreborn/android_manifest.git -b astra-14 --git-lfs
+```
+**Android 13 (More Stable but unfinished):**
+```
+repo init -u https://github.com/astraosreborn/android_manifest.git -b astra-13 --git-lfs
 ```
 Then to sync up:
 ```
